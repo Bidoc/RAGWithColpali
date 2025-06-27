@@ -1,0 +1,7 @@
+torch
+transformers
+pillow
+PyMuPDF
+anthropic
+streamlit
+colpali-engine==0.1.1
